@@ -1,0 +1,1 @@
+[{"bank":"NDB","title":"Sample Offer","merchant":"Singer","category":"IPP"}]
